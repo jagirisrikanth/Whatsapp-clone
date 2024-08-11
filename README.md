@@ -6,4 +6,4 @@ This project is a simple implementation of a WhatsApp clone using HTML, CSS, and
   - Designed with a responsive layout
   - Implement responsive design principles using HTML and CSS.
   - https://www.netlify.com/
-Clone.html
+
