@@ -12,3 +12,4 @@ This project is a simple implementation of a WhatsApp clone using HTML, CSS, and
 ![Screenshot (103)](https://github.com/Almas105/Whatsapp_Clone/assets/153919239/c44bf894-2ca3-4081-8a90-a7a13fa3baf8)
 ![Screenshot 2024-01-03 213854](https://github.com/Almas105/Whatsapp_Clone/assets/153919239/c16993cd-8119-4ef3-b9e7-fd622c169788)
 
+Open link - file:///C:/Users/Shrikant/Downloads/Clone.html
